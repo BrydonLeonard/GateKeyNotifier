@@ -2,6 +2,8 @@
 
 This is the repository for a companion notification device for [my GateKey system](https://github.com/BrydonLeonard/GateKey). GateKey sends notifications to my phone when people enter the complex gate, but I'm not always with my phone. The notifier runs on an ESP32 with a connected speaker and RGB LED and makes noises to make sure I notice visitors.
 
+[Check out this video for a demo:<br>![Text](https://i9.ytimg.com/vi_webp/vIo5TjSl2mE/mq3.webp?sqp=CIS4hqwG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB76NAKfqJSb7nVhhOxRZ488HbPYQ)](https://www.youtube.com/watch?v=vIo5TjSl2mE)
+
 ## Getting started
 
 You'll need:
@@ -20,6 +22,8 @@ In `main.cpp` configure:
 - Your WiFi password
 
 That's it! Once plugged in, the device will begin the handshake with GateKey.
+
+
 
 ## Built with 
 
